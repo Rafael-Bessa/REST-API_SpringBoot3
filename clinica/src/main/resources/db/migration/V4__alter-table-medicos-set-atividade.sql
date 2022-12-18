@@ -1,0 +1,1 @@
+update medicos set atividade = 'ATIVO';

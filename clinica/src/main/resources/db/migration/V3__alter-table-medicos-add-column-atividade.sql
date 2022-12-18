@@ -1,0 +1,1 @@
+alter table medicos add atividade varchar(20);
